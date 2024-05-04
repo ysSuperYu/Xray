@@ -43,7 +43,7 @@
 
 # 文档
 
-bash <(wget -qO- -o- https://github.com/233boy/Xray/raw/main/install.sh)
+`bash <(wget -qO- -o- https://github.com/233boy/Xray/raw/main/install.sh)`
 
 安装及使用：https://233boy.com/xray/xray-script/
 
